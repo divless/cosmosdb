@@ -1,6 +1,6 @@
 <?php
 
-namespace Jupitern\CosmosDb;
+namespace Divless\CosmosDb;
 
 /*
  * Based on the AzureDocumentDB-PHP library written by Takeshi Sakurai.
