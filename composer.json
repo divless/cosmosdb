@@ -7,10 +7,6 @@
   "support": {
     "source": "https://github.com/divless/cosmosdb-hack"
   },
-  "require"    :{
-    "php":">=7.0",
-    "guzzlehttp/guzzle": "^7.0.1"
-  },
   "autoload": {
     "psr-4": {
       "Divless\\CosmosDb\\": "src/"
