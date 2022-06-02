@@ -16,6 +16,10 @@ Include jupitern/cosmosdb in your project, by adding it to your composer.json fi
 
 ## Changelog
 
+### v2.6.0
+
+- fixed guzzle version
+
 ### v2.5.0
 
 - support partitioned queries using new method "setPartitionValue()"
